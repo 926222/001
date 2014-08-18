@@ -1,0 +1,20 @@
+A        	             B
+ 
+工作区               	工作区
+|| add      	    	||
+暂存区       	       暂存区
+|| commit   	  	    ||
+本地仓库             	本地仓库
+	\\       	     //
+	 push     /    pull
+
+	 推				拉
+	 github  pages(git hub 博客)
+
+
+ git clone git@github.com:926222/001.git    复制远程文件到本地
+ git add . 
+ git add .                                  批量修改所有文件
+ git status                                 查看状态
+git commit -m 'changed11111'                改变本地库文件 
+git push origin master                      发送远程服务器
