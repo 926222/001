@@ -18,6 +18,8 @@ A        	             B
  git commit -a                                             批量提交所有文件
  git status                                                查看状态
  git remote add origin git@github.com:926222/文件名.git    关联远程仓库   
+ git commit -m ‘first commit’                              提交更新，并注释信息“first commit”
+ git remote add origin git@github.com:926222/文件.git      连接远程github项目
  git push -u origin master                                 第一次发送本地库文件到远程仓库
 git commit -m 'changed11111'                               改变本地库文件 
 git push origin master                                     发送远程服务器
