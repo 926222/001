@@ -12,15 +12,15 @@ A        	             B
 	 github  pages(git hub 博客)
 
 
- git clone git@github.com:926222/001.git    复制远程文件到本地
+ git clone git@github.com:926222/001.git                   复制远程文件到本地
  git add . 
- git add .                                  批量修改所有文件
- git commit -a                              批量提交所有文件
- git status                                 查看状态
- git remote add origin git@github.com:926222/文件名.git  关联远程仓库   
- git push -u origin master                  第一次发送本地库文件到远程仓库
-git commit -m 'changed11111'                改变本地库文件 
-git push origin master                      发送远程服务器
+ git add .                                                 批量修改所有文件
+ git commit -a                                             批量提交所有文件
+ git status                                                查看状态
+ git remote add origin git@github.com:926222/文件名.git    关联远程仓库   
+ git push -u origin master                                 第一次发送本地库文件到远程仓库
+git commit -m 'changed11111'                               改变本地库文件 
+git push origin master                                     发送远程服务器
 
 $ cd ~/.ssh
 $ ssh-keygen -t rsa -C "emailaddress"（emailaddree此入添写你自己的邮箱地址）
