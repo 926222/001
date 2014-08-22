@@ -43,3 +43,6 @@ git reset <log>：恢复到历史版本。
 
 
 http://www.cnblogs.com/peterzd/archive/2012/04/22/2465230.html   github配置ssh
+
+
+http://www.liaoxuefeng.com
