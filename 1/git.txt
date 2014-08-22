@@ -18,3 +18,8 @@ A        	             B
  git status                                 查看状态
 git commit -m 'changed11111'                改变本地库文件 
 git push origin master                      发送远程服务器
+
+$ cd ~/.ssh
+$ ssh-keygen -t rsa -C "emailaddress"（emailaddree此入添写你自己的邮箱地址）
+例如我自己的操作如下：
+$ ssh-keygen -t rsa -C "926222@gmail.com"
