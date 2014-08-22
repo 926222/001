@@ -15,6 +15,7 @@ A        	             B
  git clone git@github.com:926222/001.git    复制远程文件到本地
  git add . 
  git add .                                  批量修改所有文件
+ git commit -a                              批量提交所有文件
  git status                                 查看状态
 git commit -m 'changed11111'                改变本地库文件 
 git push origin master                      发送远程服务器
