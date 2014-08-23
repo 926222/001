@@ -11,6 +11,22 @@ A        	             B
 	 推				拉
 	 github  pages(git hub 博客)
 
+/*
+Create a new repository on the command line
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/926222/0.git
+git push -u origin master
+Push an existing repository from the command line
+
+git remote add origin https://github.com/926222/0.git
+git push -u origin master  
+*/
+
+
 
  git clone git@github.com:926222/001.git                   复制远程文件到本地
  git add . 
